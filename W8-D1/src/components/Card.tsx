@@ -1,4 +1,3 @@
-import React from "react";
 
 function Card(props: { src: string; title: string; pro: string[] }) {
   return (

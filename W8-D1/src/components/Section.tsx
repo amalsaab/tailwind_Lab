@@ -1,4 +1,3 @@
-import React from "react";
 import Header from "./Header";
 import Cardsection from "./Cardsection";
 import Boardads from './Boardads'

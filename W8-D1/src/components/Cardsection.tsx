@@ -1,4 +1,3 @@
-import React from 'react'
 import Card from './Card'
 import TV from '../assets/TV.jpg'
 import Clothes from '../assets/clothes.jpg'

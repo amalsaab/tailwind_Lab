@@ -1,4 +1,3 @@
-import React from 'react'
 import chairImage from '../assets/chair.jpg'
 import T_chirt from '../assets/left.jpg'
 
